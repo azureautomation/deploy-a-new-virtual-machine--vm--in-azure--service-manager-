@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 6901,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/deploy-a-new-virtual-machine-(vm)-in-azure-(service-manager)/master/New-VMBuildAzure.ps1",
+    "DownloadCount": 639,
+    "Id": "Deploy-a-new-Virtual-8b524c26",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 508,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-2-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script uses the Azure Service Management API to deploy a Virtual Machine.This script presumes that you have the Azure module installed.This script presumes that you are connected to your subscription and have set your storage account.This script presumes that you have alread",
+    "Title": "Deploy a new Virtual Machine (VM) in Azure (Service Manager)",
+    "UpdatedDate": "2016-2-9T00:00:00",
+    "Url": "https://github.com/azureautomation/deploy-a-new-virtual-machine-(vm)-in-azure-(service-manager)",
+    "UserTags": "Microsoft Azure Virtual Machines"
+}
